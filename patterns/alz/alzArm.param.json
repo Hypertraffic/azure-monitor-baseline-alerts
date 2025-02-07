@@ -63,10 +63,10 @@
       "value": "No"
     },
     "bringYourOwnUserAssignedManagedIdentity": {
-      "value": "No"
+      "value": "Yes"
     },
     "bringYourOwnUserAssignedManagedIdentityResourceId": {
-      "value": ""
+      "value": "ID: /subscriptions/01e375ca-82aa-4e38-87e5-d3b7b9383923/resourcegroups/rg-amba-monitoring-001/providers/Microsoft.ManagedIdentity/userAssignedIdentities/id-amba-prod-001"
     },
     "userAssignedManagedIdentityName": {
       "value": "id-amba-prod-001"
